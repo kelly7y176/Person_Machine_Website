@@ -1,6 +1,5 @@
 body {
   font-family: Arial, sans-serif;
- 
   padding: 0;
 }
 
@@ -11,7 +10,6 @@ body {
   border: 1px solid #ccc;
   padding: 10px;
   overflow-y: scroll;
-
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   background-color: #fff;
@@ -24,7 +22,6 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-top: 10px;
-  
 }
 
 #message-input {
@@ -38,9 +35,7 @@ body {
 
 #send-button {
   width: 14%;
-
   margin-left: 10px;
-  
   background-color: #007bff;
   color: #fff;
   border: none;
